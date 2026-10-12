@@ -14,29 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/arisnyte">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/ff5a73">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/c1122f">
-      <img src="https://cdn.simpleicons.org/telegram/d41f3d" width="40" height="40" alt="Telegram" />
-    </picture>
-  </a>
+  <a href="https://t.me/arisnyte"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/ff5a73"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/c1122f"><img src="https://cdn.simpleicons.org/telegram/d41f3d" width="40" height="40" alt="Telegram" /></picture></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/hxNy9haxj">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/ff5a73">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/c1122f">
-      <img src="https://cdn.simpleicons.org/discord/d41f3d" width="40" height="40" alt="Discord" />
-    </picture>
-  </a>
+  <a href="https://discord.gg/hxNy9haxj"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/ff5a73"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/c1122f"><img src="https://cdn.simpleicons.org/discord/d41f3d" width="40" height="40" alt="Discord" /></picture></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:arisnightt@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/ff5a73">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/c1122f">
-      <img src="https://cdn.simpleicons.org/gmail/d41f3d" width="40" height="40" alt="Email" />
-    </picture>
-  </a>
+  <a href="mailto:arisnightt@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/ff5a73"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/c1122f"><img src="https://cdn.simpleicons.org/gmail/d41f3d" width="40" height="40" alt="Email" /></picture></a>
 </p>
 
 <!-- ===== TECH STACK ===== -->
