@@ -15,26 +15,13 @@
 
 ---
 
-## 👨‍💻 About me / Обо мне
+## 🛠 Tech stack
 
-- 🔨 Currently working on **KeyStash** / Сейчас работаю над **KeyStash**
-- 💬 Ask me about **Minecraft plugins & mods (Paper, Fabric, NeoForge)**, **Discord bots** / Спрашивай про **плагины и моды для Minecraft**, **Discord-ботов**
-- 🎮 Outside of code: **Minecraft, VALORANT, Genshin Impact** / Вне кода: **Minecraft, VALORANT, Genshin Impact**
-- 🤝 **Open to offers** / **Открыт к предложениям**
-
----
-
-## 🛠 Tech stack / Стек
-
-**Languages / Языки**
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 </p>
-
-**Frameworks & libraries / Фреймворки и библиотеки**
-
-PaperAPI • FabricAPI • NeoForge • JavaFX • Spring Boot • Java Discord API • Aiogram
 
 **Databases / Базы данных**
 
@@ -59,32 +46,12 @@ PaperAPI • FabricAPI • NeoForge • JavaFX • Spring Boot • Java Discord 
 ## 📊 GitHub stats / Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&theme=tokyonight&title_color=bb9af7&icon_color=9d7cd8&include_all_commits=true&border_radius=10&card_width=495" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&theme=tokyonight&title_color=bb9af7&icon_color=9d7cd8&include_all_commits=true&border_radius=10&hide_border=false" />
+  <img height="195" src="https://streak-stats.demolab.com?user=arisnightt&theme=tokyonight&ring=bb9af7&fire=bb9af7&currStreakLabel=bb9af7&border_radius=10" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisnightt&layout=compact&theme=tokyonight&title_color=bb9af7&langs_count=8&border_radius=10&card_width=495" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arisnightt&theme=tokyonight&ring=bb9af7&fire=bb9af7&currStreakLabel=bb9af7&border_radius=10&width=495" />
-</p>
-
----
-
-## 📌 Projects / Проекты
-
-- 🔹 [**KeyStash**](https://github.com/arisnightt) — in development / в разработке
-- 🔹 [**GazeClone**](https://github.com/arisnightt/GazeClone)
-- 🔹 [**OBSAutoRecord**](https://github.com/arisnightt/OBSAutoRecord)
-
----
-
-## 📦 Mods & plugins / Моды и плагины
-
-<p>
-  <a href="https://modrinth.com/user/ArisNight"><img src="https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
-  <a href="https://www.curseforge.com/members/arisnight"><img src="https://img.shields.io/badge/CurseForge-f16436?style=for-the-badge&logo=curseforge&logoColor=white" /></a>
 </p>
 
 ---
