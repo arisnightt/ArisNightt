@@ -58,16 +58,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisnightt&layout=compact&langs_count=8&card_width=495&border_radius=12&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&border_color=3b1c6e" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arisnightt&bg_color=0d0221&color=c77dff&line=9d4edd&point=e0aaff&area=true&area_color=9d4edd&hide_border=true&title_color=c77dff" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arisnightt&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b1c6e,100:9d4edd&height=100&section=footer" width="100%" />
