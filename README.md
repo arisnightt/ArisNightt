@@ -13,43 +13,50 @@
   <img src="https://img.shields.io/github/stars/arisnightt?style=flat&logo=github&label=Stars&color=7c3aed" alt="stars" />
 </p>
 
-<h2 align="center">👨‍💻 About me / Обо мне</h2>
+---
 
-<p align="center">
-  🔨 Currently working on <b>KeyStash</b> / Сейчас работаю над <b>KeyStash</b><br>
-  💬 Ask me about <b>Minecraft plugins & mods</b>, <b>Discord bots</b> / Спрашивай про <b>плагины, моды и Discord-ботов</b><br>
-  🎮 Outside of code / Вне кода: <b>Minecraft, VALORANT, Genshin Impact</b><br>
-  🤝 <b>Open to offers / Открыт к предложениям</b>
-</p>
+## 👨‍💻 About me / Обо мне
 
-<h2 align="center">🛠 Tech stack / Стек</h2>
+- 🔨 Currently working on **KeyStash** / Сейчас работаю над **KeyStash**
+- 💬 Ask me about **Minecraft plugins & mods (Paper, Fabric, NeoForge)**, **Discord bots** / Спрашивай про **плагины и моды для Minecraft**, **Discord-ботов**
+- 🎮 Outside of code: **Minecraft, VALORANT, Genshin Impact** / Вне кода: **Minecraft, VALORANT, Genshin Impact**
+- 🤝 **Open to offers** / **Открыт к предложениям**
 
-<p align="center"><b>Languages / Языки</b></p>
-<p align="center">
+---
+
+## 🛠 Tech stack / Стек
+
+**Languages / Языки**
+
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 </p>
 
-<p align="center"><b>Frameworks & libraries / Фреймворки и библиотеки</b></p>
-<p align="center">
-  PaperAPI • FabricAPI • NeoForge • JavaFX • Spring Boot • Java Discord API • Aiogram
-</p>
+**Frameworks & libraries / Фреймворки и библиотеки**
 
-<p align="center"><b>Databases / Базы данных</b></p>
-<p align="center">
+PaperAPI • FabricAPI • NeoForge • JavaFX • Spring Boot • Java Discord API • Aiogram
+
+**Databases / Базы данных**
+
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
 </p>
 
-<p align="center"><b>Tools / Инструменты</b></p>
-<p align="center">
+**Tools / Инструменты**
+
+<p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
 </p>
 
-<p align="center"><b>Design / Дизайн</b></p>
-<p align="center">
+**Design / Дизайн**
+
+<p>
   <img src="https://skillicons.dev/icons?i=figma,pr,ps&theme=dark" />
 </p>
 
-<h2 align="center">📊 GitHub stats / Статистика</h2>
+---
+
+## 📊 GitHub stats / Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&theme=tokyonight&title_color=bb9af7&icon_color=9d7cd8&include_all_commits=true&border_radius=10&card_width=495" />
@@ -63,28 +70,34 @@
   <img src="https://streak-stats.demolab.com?user=arisnightt&theme=tokyonight&ring=bb9af7&fire=bb9af7&currStreakLabel=bb9af7&border_radius=10&width=495" />
 </p>
 
-<h2 align="center">📌 Projects / Проекты</h2>
+---
 
-<p align="center">
-  🔹 <a href="https://github.com/arisnightt"><b>KeyStash</b></a> — in development / в разработке<br>
-  🔹 <a href="https://github.com/arisnightt/GazeClone"><b>GazeClone</b></a><br>
-  🔹 <a href="https://github.com/arisnightt/OBSAutoRecord"><b>OBSAutoRecord</b></a>
-</p>
+## 📌 Projects / Проекты
 
-<h2 align="center">📦 Mods & plugins / Моды и плагины</h2>
+- 🔹 [**KeyStash**](https://github.com/arisnightt) — in development / в разработке
+- 🔹 [**GazeClone**](https://github.com/arisnightt/GazeClone)
+- 🔹 [**OBSAutoRecord**](https://github.com/arisnightt/OBSAutoRecord)
 
-<p align="center">
+---
+
+## 📦 Mods & plugins / Моды и плагины
+
+<p>
   <a href="https://modrinth.com/user/ArisNight"><img src="https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
   <a href="https://www.curseforge.com/members/arisnight"><img src="https://img.shields.io/badge/CurseForge-f16436?style=for-the-badge&logo=curseforge&logoColor=white" /></a>
 </p>
 
-<h2 align="center">🌐 Contacts / Контакты</h2>
+---
+
+## 🌐 Contacts / Контакты
 
 <p align="center">
   <a href="https://t.me/arisnyte"><img src="https://img.shields.io/badge/Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://discord.gg/hxNy9haxj"><img src="https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:arisnightt@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
