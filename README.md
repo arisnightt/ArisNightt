@@ -14,9 +14,29 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/arisnyte"><img src="https://img.shields.io/badge/Telegram-9d4edd?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0221" /></a>
-  <a href="https://discord.gg/hxNy9haxj"><img src="https://img.shields.io/badge/Discord-9d4edd?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0221" /></a>
-  <a href="mailto:arisnightt@gmail.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" /></a>
+  <a href="https://t.me/arisnyte">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/b388ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/7c3aed">
+      <img src="https://cdn.simpleicons.org/telegram/9d4edd" width="40" height="40" alt="Telegram" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/hxNy9haxj">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/b388ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/7c3aed">
+      <img src="https://cdn.simpleicons.org/discord/9d4edd" width="40" height="40" alt="Discord" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:arisnightt@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/b388ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/7c3aed">
+      <img src="https://cdn.simpleicons.org/gmail/9d4edd" width="40" height="40" alt="Email" />
+    </picture>
+  </a>
 </p>
 
 <!-- ===== TECH STACK ===== -->
@@ -24,25 +44,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:3b1c6e,100:9d4edd&height=44&text=Tech%20Stack%20%2F%20%D0%A1%D1%82%D0%B5%D0%BA&fontSize=20&fontColor=e0aaff&fontAlignY=55" width="100%" />
 </p>
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
-</p>
-
-<p align="center"><b>Databases / Базы данных</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
-</p>
-
-<p align="center"><b>Tools / Инструменты</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
-</p>
-
-<p align="center"><b>Design / Дизайн</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,pr,ps&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <th align="center" width="340">Languages / Языки</th>
+    <th align="center" width="340">Databases / Базы данных</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Tools / Инструменты</th>
+    <th align="center">Design / Дизайн</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma,pr,ps&theme=dark" /></td>
+  </tr>
+</table>
 
 <!-- ===== STATS ===== -->
 <p align="center">
