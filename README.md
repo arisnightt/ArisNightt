@@ -4,13 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Пишу+моды+и+плагины+для+Minecraft;Building+KeyStash;Открыт+к+предложениям+%2F+Open+to+offers" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=650&height=40&lines=Hello%2C+World%21;%D0%9F%D0%B8%D1%88%D1%83+%D0%BC%D0%BE%D0%B4%D1%8B+%D0%B8+%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B+%D0%B4%D0%BB%D1%8F+Minecraft;Building+KeyStash;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82+%D0%BA+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC+%2F+Open+to+offers" alt="ArisNight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arisnightt&label=Profile+views&color=7c3aed&style=flat" alt="views" />
+  <img src="https://hits.sh/github.com/arisnightt/arisnightt.svg?style=flat&label=Profile%20views&color=7c3aed&labelColor=555555" alt="views" />
   <img src="https://img.shields.io/github/followers/arisnightt?style=flat&logo=github&label=Followers&color=7c3aed" alt="followers" />
   <img src="https://img.shields.io/github/stars/arisnightt?style=flat&logo=github&label=Stars&color=7c3aed" alt="stars" />
 </p>
@@ -34,22 +32,9 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/YAML-5b21b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-5b21b6?style=for-the-badge" />
-</p>
-
 **Frameworks & libraries / Фреймворки и библиотеки**
 
-<p>
-  <img src="https://img.shields.io/badge/PaperAPI-7c3aed?style=for-the-badge&logo=papermc&logoColor=white" />
-  <img src="https://img.shields.io/badge/FabricAPI-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NeoForge-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaFX-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-7c3aed?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Discord%20API-7c3aed?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aiogram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" />
-</p>
+PaperAPI • FabricAPI • NeoForge • JavaFX • Spring Boot • Java Discord API • Aiogram
 
 **Databases / Базы данных**
 
@@ -83,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arisnightt&theme=tokyo-night&color=bb9af7&line=9d7cd8&point=e0aaff&area=true&area_color=7c3aed&bg_color=1a1b27" />
+  <img src="https://ghchart.rshah.org/9d4edd/arisnightt" alt="Contribution graph" />
 </p>
 
 ---
