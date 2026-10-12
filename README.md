@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=0a0a0f&title_color=ff5a73&icon_color=d41f3d&text_color=f8cdd5&border_color=8a1328&card_width=400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&hide_border=false&border_radius=12&bg_color=0a0a0f&title_color=ff5a73&icon_color=d41f3d&text_color=f8cdd5&border_color=8a1328&card_width=400" />
   <img height="160" src="https://streak-stats.demolab.com?user=arisnightt&border_radius=12&background=0a0a0f&border=8a1328&ring=ff5a73&fire=d41f3d&currStreakNum=f8cdd5&sideNums=f8cdd5&currStreakLabel=ff5a73&sideLabels=ff5a73&dates=e0566b" />
 </p>
 
