@@ -1,104 +1,122 @@
-<!-- Замени USERNAME на свой GitHub-логин (во всех ссылках) -->
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b1c6e,100:9d4edd&height=220&section=header&text=ArisNight&fontSize=60&fontColor=e0aaff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer,%20Minecraft%20Modder&descAlignY=60&descSize=20&descColor=c77dff" />
+</p>
 
-<!-- ===== ШАПКА ===== -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Привет,%20я%20Имя&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20разработчик&descAlignY=55&descSize=20" />
-</h1>
-
-<!-- Анимированная печатающаяся строка -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Люблю+чистый+код;Строю+веб-приложения;Всегда+учусь+новому" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Пишу+моды+и+плагины+для+Minecraft;Building+KeyStash;Открыт+к+предложениям+%2F+Open+to+offers" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Счётчик просмотров + бейджи -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Просмотры+профиля&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?style=flat&logo=github&label=Подписчики" alt="followers" />
-  <img src="https://img.shields.io/github/stars/USERNAME?style=flat&logo=github&label=Звёзды" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=arisnightt&label=Profile+views&color=7c3aed&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/arisnightt?style=flat&logo=github&label=Followers&color=7c3aed" alt="followers" />
+  <img src="https://img.shields.io/github/stars/arisnightt?style=flat&logo=github&label=Stars&color=7c3aed" alt="stars" />
 </p>
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About me / Обо мне
 
-- 🔭 Сейчас работаю над **проект X**
-- 🌱 Изучаю **Rust** и **System Design**
-- 💬 Спрашивай меня про **JavaScript, Python, Docker**
-- 📫 Связаться: **you@example.com**
-- ⚡ Интересный факт: *напиши что-нибудь о себе*
-
----
-
-## 🛠 Стек технологий
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind,postgres,docker,git,linux&perline=12" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,githubactions,nginx,redis,aws&perline=7" />
-</p>
-
-> Все иконки: https://skillicons.dev (список кодов — в репозитории проекта)
+- 🔨 Currently working on **KeyStash** / Сейчас работаю над **KeyStash**
+- 💬 Ask me about **Minecraft plugins & mods (Paper, Fabric, NeoForge)**, **Discord bots** / Спрашивай про **плагины и моды для Minecraft**, **Discord-ботов**
+- 🎮 Outside of code: **Minecraft, VALORANT, Genshin Impact** / Вне кода: **Minecraft, VALORANT, Genshin Impact**
+- 🤝 **Open to offers** / **Открыт к предложениям**
 
 ---
 
-## 📊 Статистика GitHub
+## 🛠 Tech stack / Стек
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+**Languages / Языки**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/YAML-5b21b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-5b21b6?style=for-the-badge" />
 </p>
 
-<!-- График активности -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+**Frameworks & libraries / Фреймворки и библиотеки**
+
+<p>
+  <img src="https://img.shields.io/badge/PaperAPI-7c3aed?style=for-the-badge&logo=papermc&logoColor=white" />
+  <img src="https://img.shields.io/badge/FabricAPI-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NeoForge-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaFX-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-7c3aed?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Discord%20API-7c3aed?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiogram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
----
+**Databases / Базы данных**
 
-## 🏆 Трофеи
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
 </p>
 
----
+**Tools / Инструменты**
 
-## 📌 Закреплённые проекты
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
+</p>
 
-<p align="center">
-  <a href="https://github.com/USERNAME/REPO1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/USERNAME/REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=tokyonight&hide_border=true" />
-  </a>
+**Design / Дизайн**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,pr,ps&theme=dark" />
 </p>
 
 ---
 
-## 🐍 Змейка из контрибуций
+## 📊 GitHub stats / Статистика
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" alt="snake" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&theme=tokyonight&title_color=bb9af7&icon_color=9d7cd8&include_all_commits=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisnightt&layout=compact&theme=tokyonight&title_color=bb9af7&langs_count=8&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arisnightt&theme=tokyonight&ring=bb9af7&fire=bb9af7&currStreakLabel=bb9af7&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arisnightt&theme=tokyo-night&color=bb9af7&line=9d7cd8&point=e0aaff&area=true&area_color=7c3aed&bg_color=1a1b27" />
 </p>
 
 ---
 
-## 🌐 Социальные сети
+## 📌 Projects / Проекты
 
-<p align="center">
-  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+- 🔹 [**KeyStash**](https://github.com/arisnightt) — in development / в разработке
+- 🔹 [**GazeClone**](https://github.com/arisnightt/GazeClone)
+- 🔹 [**OBSAutoRecord**](https://github.com/arisnightt/OBSAutoRecord)
+
+---
+
+## 📦 Mods & plugins / Моды и плагины
+
+<p>
+  <a href="https://modrinth.com/user/ArisNight"><img src="https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
+  <a href="https://www.curseforge.com/members/arisnight"><img src="https://img.shields.io/badge/CurseForge-f16436?style=for-the-badge&logo=curseforge&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+---
+
+## 🌐 Contacts / Контакты
+
+<p align="center">
+  <a href="https://t.me/arisnyte"><img src="https://img.shields.io/badge/Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.gg/hxNy9haxj"><img src="https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:arisnightt@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b1c6e,100:9d4edd&height=100&section=footer" width="100%" />
