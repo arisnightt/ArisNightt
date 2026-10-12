@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff5a73&center=true&vCenter=true&width=650&height=40&lines=Hello%2C+World%21;%D0%9F%D0%B8%D1%88%D1%83+%D0%BC%D0%BE%D0%B4%D1%8B+%D0%B8+%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B+%D0%B4%D0%BB%D1%8F+Minecraft;Building+KeyStash;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82+%D0%BA+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC+%2F+Open+to+offers" alt="ArisNight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff5a73&center=true&vCenter=true&width=650&height=40&lines=Small+steps+also+lead+forward.;Everything+is+going+according+to+plan.+Almost.;If+it+works%2C+don%27t+touch+it." alt="ArisNight" />
 </p>
 
 <p align="center">
@@ -41,21 +41,21 @@
 
 <!-- ===== TECH STACK ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:8a1328,100:d41f3d&height=44&text=Tech%20Stack%20%2F%20%D0%A1%D1%82%D0%B5%D0%BA&fontSize=20&fontColor=f8cdd5&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:8a1328,100:d41f3d&height=44&text=Tech%20Stack&fontSize=20&fontColor=f8cdd5&fontAlignY=55" width="100%" />
 </p>
 
 <table align="center">
   <tr>
-    <th align="center" width="340">Languages / Языки</th>
-    <th align="center" width="340">Databases / Базы данных</th>
+    <th align="center" width="340">Languages</th>
+    <th align="center" width="340">Databases</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" /></td>
   </tr>
   <tr>
-    <th align="center">Tools / Инструменты</th>
-    <th align="center">Design / Дизайн</th>
+    <th align="center">Tools</th>
+    <th align="center">Design</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" /></td>
@@ -65,7 +65,7 @@
 
 <!-- ===== STATS ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:8a1328,100:d41f3d&height=44&text=GitHub%20Stats%20%2F%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&fontSize=20&fontColor=f8cdd5&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:8a1328,100:d41f3d&height=44&text=GitHub%20Stats&fontSize=20&fontColor=f8cdd5&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
