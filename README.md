@@ -50,12 +50,12 @@
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=0d0221&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&border_color=3b1c6e" />
-  <img height="195" src="https://streak-stats.demolab.com?user=arisnightt&border_radius=12&background=0d0221&border=3b1c6e&ring=c77dff&fire=9d4edd&currStreakNum=e0aaff&sideNums=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=9d4edd" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arisnightt&show_icons=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=0d0221&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&border_color=3b1c6e&card_width=400" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=arisnightt&border_radius=12&background=0d0221&border=3b1c6e&ring=c77dff&fire=9d4edd&currStreakNum=e0aaff&sideNums=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=9d4edd" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisnightt&layout=compact&langs_count=8&card_width=495&border_radius=12&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&border_color=3b1c6e" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisnightt&layout=compact&langs_count=8&card_width=400&border_radius=12&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&border_color=3b1c6e" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b1c6e,100:9d4edd&height=100&section=footer" width="100%" />
