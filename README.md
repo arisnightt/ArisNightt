@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisnightt&layout=compact&langs_count=8&card_width=400&border_radius=12&bg_color=0a0a0f&title_color=ff5a73&text_color=f8cdd5&border_color=8a1328" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisnightt&layout=compact&langs_count=8&card_width=400&border_radius=12&bg_color=0a0a0f&title_color=ff5a73&text_color=f8cdd5&border_color=8a1328" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d41f3d,50:8a1328,100:0a0a0f&height=100&section=footer" width="100%" />
